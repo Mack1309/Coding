@@ -372,7 +372,7 @@ section {
         
  header {
   position: relative;
-  height: 1100px;
+  height: 1700px;
   color: var(--color-white);
   overflow: hidden;
   padding: 0 !important;
@@ -427,6 +427,34 @@ section {
   top: 320px;
 }
 
+.logo-img {
+  position: relative;
+  display: inline-block;
+  left: -80px;
+  top: 400px;
+  width: 150px;
+  height: 150px;
+  
+}
+
+.ui-img {
+  position: relative;
+  display: inline-block;right: 20px;
+  left: 80px;
+  top: 250px;
+  width: 150px;
+  height: 150px;
+}
+
+.email-img {
+  position: relative;
+  display: inline-block;
+  left: 0px;
+  top: 370px;
+  width: 150px;
+  height: 150px;
+}
+
 .html-txt {
   position: relative;
   display: inline-block;
@@ -465,6 +493,31 @@ section {
   font-size: 25px;
   top: 350px;
 }
+      
+.logo-txt {
+  position: relative;
+  display: inline-block;
+  left: 0px;
+  font-size: 25px;
+  top: 100px;
+}
+
+.ui-txt {
+  position: relative;
+  display: inline-block;
+  left: 180px;
+  font-size: 25px;
+  top: 60px;
+}
+
+.email-txt {
+  position: relative;
+  display: inline-block;
+  left: 40px;
+  font-size: 25px;
+  top: 300px;
+}
+
 }
 
 /*About*/
